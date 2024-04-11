@@ -301,11 +301,9 @@ function App() {
 
   return (
     <>
-    <div style={{width : "70vw", marginLeft:"auto", marginRight:"auto" ,marginTop:"30px "}}> 
+    <div style={{width : "70vw", margin: "auto"}}> 
     
-      <h1 style={{textAlign: "center"}}>Galería de imágenes Dr. Mosovich.</h1>
-      <h2 style={{textAlign: "center"}}>www.otorrinoenpilar.com</h2>
-      <a target='_blank' rel='noopener noreferrer' href='https://otorrinoenpilar.com/temas/rinoplastia.html'> <h3 style={{color: "white", textAlign: "center"}}>❌CERRAR</h3></a>
+            <a target='_blank' rel='noopener noreferrer' href='https://otorrinoenpilar.com/temas/rinoplastia.html'> <h3 style={{color: "white", textAlign: "center"}}>❌CERRAR</h3></a>
    
       <ImageGallery items={images} />
 
