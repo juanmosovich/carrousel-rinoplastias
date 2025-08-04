@@ -303,7 +303,7 @@ function App() {
     <>
     <div style={{width : "70vw", margin: "auto"}}> 
     
-            <a target='_blank' rel='noopener noreferrer' href='https://otorrinoenpilar.com/temas/rinoplastia.html'> <h3 style={{color: "white", textAlign: "center"}}>❌CERRAR</h3></a>
+            <a target='_blank' rel='noopener noreferrer' href='https://www.otorrinoenpilar.com/rinoplastia.html'> <h3 style={{color: "white", textAlign: "center"}}>❌CERRAR</h3></a>
    
       <ImageGallery items={images} />
 
